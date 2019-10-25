@@ -57,6 +57,8 @@ Then, place the file in the folder in the Banana-Navigation GitHub repository, a
  
 ### Project results
 
+* The agent achieved 13.04 within 384 episodes which is pretty quick as the expected outstanding episodes was 1800.
+
 <img src="/Avg score.png" width= 700 px/>
 
 
