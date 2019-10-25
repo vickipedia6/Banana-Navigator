@@ -34,7 +34,8 @@ UPDATE_EVERY = 5  - how often to update the network
 
 <img src="/graph.png" width=500 px />
 
-<img src="/Avg score.png" width=700 px/
+<img src="/Avg score.png" width=700 px/>
+
 
 ## Ideas for Future Work
 
